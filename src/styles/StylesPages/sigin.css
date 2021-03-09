@@ -1,0 +1,80 @@
+
+.figure{
+  margin: 0;
+  width: 90vw;
+}
+
+.figure img{
+  width: 100%;
+  height: 350px;
+}
+
+.welcome{
+  margin-left: 32%;
+  color: #1EC1B2;
+  font-size: 25px;
+}
+
+.form{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form label{
+  margin: 10px;
+  border-radius: 10px;
+  border: 1px solid gray;
+  height: 35px;
+}
+
+.form input{
+  border: none;
+  border-radius: 10px;
+  color: gray;
+  padding: 10px;
+}
+
+.icon{
+  color: gray;
+}
+
+.btn{
+  width: 220px;
+  height: 35px;
+  background-color: #1EC1B2;
+  border-radius: 10px;
+  border: none;
+  color: white;
+}
+
+.Social{
+  display: flex;
+  margin-top: 25px;
+  justify-content: center;
+  gap: 45px;
+}
+
+.Social .Socials{
+  font-size: 40px;
+  color: #1EC1B2;
+}
+
+.Signup{
+  margin-top: 40px;
+  margin-left: 25%;
+  font-size: 20px;
+  color: #1EC1B2;
+}
+
+.is-danger{
+  border-radius: 15px;
+  background-color: rgb(230, 115, 115);
+}
+
+.FaArrowleftSignin{
+  color: #1EC1B2;
+  margin-top: 10px;
+  font-size: 30px;
+}

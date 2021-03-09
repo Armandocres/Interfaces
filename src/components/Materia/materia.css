@@ -1,0 +1,17 @@
+
+.ContainerM{
+  display: flex;
+}
+
+.ContainerM__figure{
+  width: 250px;
+  margin: 0;
+}
+
+.ContainerM__figure img{
+  width: 100%;
+}
+
+.ContainerM__stadsprofesor--title{
+  color: #1EC1B2;
+}

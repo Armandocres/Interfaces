@@ -1,0 +1,87 @@
+.Modal{
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Modal__container{
+  margin-top: 150px;
+  position: relative;
+  top: 100px;
+  background-color: #ffffff;
+  padding: 1rem;
+  width: 400px;
+}
+
+.formularioModal{
+  width: 280px;
+  margin-top: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.formularioModal label{
+  margin: 10px;
+  border-radius: 10px;
+  border: 1px solid gray;
+  height: 35px;
+}
+
+.formularioModal input{
+  border: none;
+  border-radius: 10px;
+  color: gray;
+  padding: 10px;
+}
+
+.buttonModal{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  width: 180px;
+  height: 35px;
+  background-color: #1EC1B2;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  text-decoration: none;
+}
+
+.iconModal{
+  color: gray;
+}
+
+.ParrafoModal{
+  color: #1EC1B2;
+  text-align: center;
+}
+
+.DatosModal{
+  text-align: center;
+  color: #1EC1B2;
+}
+
+.RegresaModal{
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0;
+  background-color: #F5F5F5;
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+}
+
+.is-dangerModal{
+  border-radius: 15px;
+  background-color: rgb(230, 115, 115);
+}

@@ -1,0 +1,13 @@
+.BotonesContainer{
+  display: flex;
+  justify-content: space-between;
+  justify-content: center;
+}
+
+.LinksBotones{
+  text-decoration: none;
+  padding: 0 5px;
+  font-size: 14px;
+  background-color: rgb(223, 219, 219);
+  border-radius: 15px;
+}

@@ -1,0 +1,18 @@
+
+.Header{
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  background-color: #1EC1B2;
+}
+
+.fas{
+  font-size: 25px;
+  color: white;
+}
+
+.Header h2{
+  color: white;
+}

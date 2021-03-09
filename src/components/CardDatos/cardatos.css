@@ -1,0 +1,41 @@
+.title{
+  color: #1EC1B2;
+}
+
+.MateriasDatos{
+  border-bottom: 1px solid #707070;
+}
+
+.MateriasDatos .spanes{
+  padding: 0 30px;
+}
+
+.MateriasProfesor{
+  display: flex;
+  border-bottom: 1px solid #707070;
+}
+
+.icones{
+  text-align: center;
+  font-size: 25px;
+  margin-left: 20px;
+  padding: 20px;
+  margin-top: 25px;
+}
+
+.h2{
+  text-align: center;
+  color: #F279BC;
+}
+
+.trash{
+  color: #F279BC;
+}
+
+.dats{
+  border-bottom: 1px solid #707070;
+}
+
+.desactivar{
+  border-bottom: 1px solid #707070;
+}

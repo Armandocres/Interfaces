@@ -1,0 +1,29 @@
+.Containers{
+  margin-top: 15px;
+  display: flex;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 8px 6px -6px rgb(155, 153, 153);
+  width: 90vw;
+}
+
+.Container__stads{
+  width: 250px;
+  font-size: 13px;
+  padding: 5px;
+}
+
+.iconEs{
+  margin-top: 15px;
+  font-size: 50px;
+  color: #1EC1B2;
+}
+
+.Container__stads--span{
+  display: flex;
+  justify-content: space-between;
+}
+
+.Container__figures{
+  width: 80px;
+}

@@ -1,0 +1,19 @@
+.divHome{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: #1EC1B2;
+}
+
+.Homeh2{
+  color: white;
+  font-size: 50px;
+  margin: 0;
+  text-align: center;
+}
+
+.linkshome{
+  text-decoration: none;
+}

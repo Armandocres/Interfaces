@@ -1,0 +1,13 @@
+.Notfound{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  width: 320px;
+  height: 100vh;
+  background-color: #1EC1B2;
+}
+
+.Notfound img{
+  width: 100%;
+}

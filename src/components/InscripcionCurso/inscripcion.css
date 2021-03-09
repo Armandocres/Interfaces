@@ -1,0 +1,28 @@
+.ContainerInscription__figureins{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  /* width: 320px; */
+  height: 75vh;
+}
+
+.ContainerInscription__figureins img{
+  margin: 0;
+  width: 100%;
+}
+
+.ContainerInscription__datos--parrafo{
+  color: #1EC1B2;
+  text-align: center;
+}
+
+.boton{
+  margin-left: 18%;
+  width: 220px;
+  height: 35px;
+  background-color: #1EC1B2;
+  border-radius: 10px;
+  border: none;
+  color: white;
+}
